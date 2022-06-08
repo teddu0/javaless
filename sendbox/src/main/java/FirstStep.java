@@ -3,10 +3,11 @@ public class FirstStep {
 public static void main(String[] args) {
 
 String a = "Hello, World!";
+String b = "what?";
 
 
 
-System.out.println(a);
+System.out.println(b);
 }
 
 }
